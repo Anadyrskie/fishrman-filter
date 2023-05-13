@@ -20,3 +20,6 @@ It outputs a csv file ```fisherman_filtered.csv``` with the following columns
 |   Fisherman Name  |   Boat  |   Last name  |   ADFG Number  |   Vessel Name  |
 |-------------------|---------|--------------|----------------|----------------|
 
+
+## Main Issues
+Currently some last names get (possibly random) ADFG numbers despite not having a vessel assigned. If boat/vessel name is blank in the output, the ADFG number is likely incorrect.
