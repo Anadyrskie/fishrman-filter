@@ -23,3 +23,5 @@ It outputs a csv file ```fisherman_filtered.csv``` with the following columns
 
 ## Main Issues
 Currently some last names get (possibly random) ADFG numbers despite not having a vessel assigned. If boat/vessel name is blank in the output, the ADFG number is likely incorrect.
+
+The script will not match vessels if the permit is out of date, or if the permit holders name is different from the fisherman.
