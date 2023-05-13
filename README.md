@@ -8,7 +8,7 @@ pandas is required
 ## Usage
 ```fisherman.csv``` is a list of fishermen and vessel names with headings as so
 
-|   Fisherman Name  |   Boat  |   Phone  |   Last name  |
+|   Fisherman Name  |   Boat   |   Last name  |
 
 ```vessels.csv``` is the yearly download by vessel for the current year at [CFEC](https://www.cfec.state.ak.us/plook/#downloads)
 
