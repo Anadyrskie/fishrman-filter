@@ -15,3 +15,9 @@ pandas is required
 run with
 ```python3 filter.py```
 
+It outputs a csv file ```fisherman_filtered.csv``` with the following headings
+|   Fisherman Name  |   Boat  |   Last name  |   ADFG Number  |   Vessel Name  |
+|-------------------|---------|--------------|----------------|----------------|
+|                   |         |              |                |                |
+|                   |         |              |                |                |
+
