@@ -10,7 +10,7 @@ pandas is required
 
 |   Fisherman Name  |   Boat   |   Last name  |
 
-```vessels.csv``` is the yearly download by vessel for the current year at [CFEC](https://www.cfec.state.ak.us/plook/#downloads)
+```vessels.csv``` is the yearly download of vessel information for the current year at [CFEC](https://www.cfec.state.ak.us/plook/#downloads)
 
 run with
 ```python3 filter.py```
